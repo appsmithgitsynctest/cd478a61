@@ -4164,7 +4164,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Selected_orderRefundInfo",
               "name": "getOrderinfo",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -4178,7 +4177,6 @@
           ],
           [
             {
-              "id": "Selected_orderRefundInfo",
               "name": "getCustomer",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
